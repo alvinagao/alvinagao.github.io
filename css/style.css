@@ -70,7 +70,7 @@ body {
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 .header-area {
-    background: url('../images/tBG01.jpg') no-repeat center center / cover;
+    background: url('../images/SUnset.jpg') no-repeat center center / cover;
 	padding: 60px 0;
 	
 }
@@ -110,7 +110,7 @@ body {
 
 .header-area .menu-area nav > ul > li > a:hover {
     font-weight: bold;
-    color: #e2b17b;
+    color: #404565;
     background: #54586352;
     border-bottom: 2px solid #e2b17b;
 }
@@ -143,7 +143,7 @@ body {
 }
 
 .header-area .menu-area nav ul ul li a:hover {
-    color: #27c4f4;
+    color: #8590c0;
     background: #6a789d52;
 }
 
@@ -225,7 +225,7 @@ body {
 }
 
 .header-area .button a{
-    background: #7accc8;
+    background: #8590c0;
     padding: 22px 80px;
     font-size: 22px;
     letter-spacing: 2px;
@@ -236,11 +236,11 @@ body {
 }
 
 .header-area .button a:hover{
-    background: #e8b968;
+    background: #404565;
 }
 
 .contend-area .about-section {
-    background: #e8b968 url('../images/ipadBG.png') no-repeat right  65px/ 50%;
+    background: #616991 url('../images/ipadBG.png') no-repeat right  65px/ 50%;
     overflow: hidden;
     color: #FFF;
 	padding: 100px 0;
@@ -278,12 +278,12 @@ body {
 }
 
 .contend-area .about-section a:hover {
-	color: #a58347;
-	border-color: #a58347;
+	color: #e3d0e0;
+	border-color: #e3d0e0;
 }
 
 .contend-area .experience-title-section {
-	background: url('../images/tBG01.jpg') no-repeat left center / cover;
+	background: url('../images/SUnset.jpg') no-repeat left center / cover;
 	padding: 55px 0;
 }
 
@@ -367,7 +367,7 @@ body {
 }
 
 .contend-area .experience-section .demo-button a{
-	background: #f69679;
+	background: #e3d0e0;
 	border-radius: 3px;
     font-size: 17px;
     color: #fff;
@@ -378,7 +378,7 @@ body {
 }
 
 .contend-area .experience-section .demo-button a:hover{
-	background: #e37857;
+	background: #e3d0e0;
 	
 }
 
@@ -489,7 +489,7 @@ body {
  */
 
 .footer-area {
-	background: #7accc8;
+	background: #8590c0;
 	padding: 70px 0;
 }
 
@@ -538,7 +538,7 @@ body {
 } 
 
 .footer-area .footer-menus a:hover {
-	color: #5db3af;
+	color: #8590c0;
 } 
 
 .footer-area .logo {
